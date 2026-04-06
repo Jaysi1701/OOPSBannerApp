@@ -1,6 +1,6 @@
 package utils;
 
-public class BannerPrinter {
+public class BannerPrinterUC2 {
 
     public static void printBanner() {
         System.out.println( "***   ***   *****  ***** ");
@@ -10,3 +10,4 @@ public class BannerPrinter {
         System.out.println(" ***   ***   *      ***** ");
     }
 }
+
